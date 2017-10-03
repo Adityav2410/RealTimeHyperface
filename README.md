@@ -1,7 +1,7 @@
 # RealTime Hyperface
 A neural network architecture for realtime simultaneous face detection, landmark localization, pose estimation and gender recognition. 
 
-This work was inspired by the following two works:
+This work was inspired by the following two publicationss:
 * [HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition](https://arxiv.org/pdf/1603.01249.pdf) 
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
 
@@ -26,7 +26,8 @@ This work was inspired by the following two works:
 ### Layer vizualization
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/roi_face.png" width=500 align="middle" >
 
-
+ +
+ +
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/roi_group.png" width=500 align="middle" >
 
 
