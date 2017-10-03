@@ -2,17 +2,17 @@
 A neural network architecture for realtime simultaneous face detection, landmark localization, pose estimation and gender recognition. 
 
 This work was inspired by the following two works:
-* [HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition](https://arxiv.org/pdf/1603.01249.pdf") 
+* [HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition](https://arxiv.org/pdf/1603.01249.pdf) 
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
 
 
-## DEMOS
-[Demo - Roll](https://drive.google.com/open?id=0B_bGPmnvECTmWlBaT1EtTUN4d2c)
-[Demo - Pitch](https://drive.google.com/open?id=0B_bGPmnvECTmaHk5c3R6Z3NNc00)
-[Demo - Yaw](https://drive.google.com/open?id=0B_bGPmnvECTmem81MkJfMy0zS1U)
+## DEMO
+* [Roll](https://drive.google.com/open?id=0B_bGPmnvECTmWlBaT1EtTUN4d2c)
+* [Pitch](https://drive.google.com/open?id=0B_bGPmnvECTmaHk5c3R6Z3NNc00)
+* [Yaw](https://drive.google.com/open?id=0B_bGPmnvECTmem81MkJfMy0zS1U)
 
 ## DATASET
-[Annotated Facial Landmarks in the Wild (AFLW)]("https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/")
+[Annotated Facial Landmarks in the Wild (AFLW)](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
 
 
 ## Network Architecture
@@ -23,10 +23,10 @@ This work was inspired by the following two works:
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/rpn.png" width=500 align="middle" >
 
 
-<img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/architecture.png" width=500 align="middle" >
-
 ### Layer vizualization
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/roi_face.png" width=500 align="middle" >
+
+
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/roi_group.png" width=500 align="middle" >
 
 
