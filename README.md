@@ -39,11 +39,12 @@ The RPN proposals are backprojected on intermediate layers of VGGNet. These feat
 
 ## RESULTS
 
-Some examples of annotated images from AFLW datasets. Red bounding boxes show female gender and blue boxes show male.
+Some examples of annotated images from AFLW datasets. 
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/annotated_images.png" width=500 align="middle" >
+* Red bounding boxes show female gender and blue boxes show male.
 
-Yellow bounding boxes are the ones proposed by the RPN. Improved bounding boxes shown in red/blue are generated after applying bounding-box-reggression.
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/regr_improve.png" width=500 align="middle" >
+* Yellow bounding boxes are the ones proposed by the RPN. Improved bounding boxes shown in red/blue are generated after applying bounding-box-reggression.
 
 ### Face Detection
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/detection.png" width=350 align="middle" >
