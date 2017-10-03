@@ -26,8 +26,8 @@ This work was inspired by the following two publicationss:
 ### Layer vizualization
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/roi_face.png" width=500 align="middle" >
 
- +
- +
+ 
+ 
 <img src="https://github.com/Adityav2410/RealTimeHyperface/blob/master/assets/images/roi_group.png" width=500 align="middle" >
 
 
